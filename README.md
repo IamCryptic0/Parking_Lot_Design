@@ -33,8 +33,10 @@ intelligence to vehicle parking management.
 
 ### Smart Space Management
 
+```text
 Level 1: [🚛][ ][🚗][ ]
          └──┘
+```
 Truck occupies 2 adjacent slots
 
 ## 💻 Command Interface
