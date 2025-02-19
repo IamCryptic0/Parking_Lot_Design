@@ -63,10 +63,12 @@ check_full
 ## 🔧 Technical Implementation
 
 Class Hierarchy:
+```text
 Garage
   └── Level
        └── Slot
             └── Machine
+```
 
 Data Structures Used:
 - vector<Level>: Manages multiple parking levels
