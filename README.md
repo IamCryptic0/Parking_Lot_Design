@@ -1,5 +1,7 @@
 /*
+----------------------------------------------------------------------------------------
 # 🚗 Smart Parking Lot Management System
+----------------------------------------------------------------------------------------
 
 A sophisticated multi-level parking garage system built in C++ that brings 
 intelligence to vehicle parking management.
