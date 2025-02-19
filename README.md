@@ -1,4 +1,3 @@
-/*
 ----------------------------------------------------------------------------------------
 # 🚗 Smart Parking Lot Management System
 ----------------------------------------------------------------------------------------
@@ -139,4 +138,3 @@ Error Handling:
 - License Plate Recognition
 - Smart Space Prediction
 - EV Charging Spots
-*/
