@@ -124,12 +124,14 @@ Error Handling:
 - 🚧 Reserved Spot
 
 ## 🔄 Workflow Example
+```text
 
 1. User Input     →  2. Validation    →  3. Spot Assignment
       ↓                   ↓                    ↓
     ABC123            Check Space         Level 2, Spot 5
       ↓                   ↓                    ↓
     Vehicle           Verify Type          Update Maps
+```
 
 ## 🎨 Future Enhancements
 - Payment Integration
