@@ -43,13 +43,13 @@ locate_machine ABC123      # Finds vehicle location
 
 ### System Monitoring
 check_availability
-  # Shows this kind of output:
-  # Level 0: 5 slots free
-  # Level 1: 3 slots free
-  # Level 2: 7 slots free
+   Shows this kind of output:
+  - Level 0: 5 slots free
+  - Level 1: 3 slots free
+  - Level 2: 7 slots free
 
 check_full
-  # Tells you if the garage is completely full
+  - Tells you if the garage is completely full
 
 ### Other Commands
 - commands — Display all available commands
