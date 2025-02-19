@@ -41,13 +41,15 @@ Truck occupies 2 adjacent slots
 ## 💻 Command Interface
 
 ### Parking Operations
+```text
 add_machine ABC123 Car     # Parks a car with ID ABC123
 unpark_machine ABC123      # Removes the vehicle
 locate_machine ABC123      # Finds vehicle location
+```
 
 ### System Monitoring
 check_availability
-   Shows this kind of output:
+   ####Shows this kind of output:
   - Level 0: 5 slots free
   - Level 1: 3 slots free
   - Level 2: 7 slots free
