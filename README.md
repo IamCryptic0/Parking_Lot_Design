@@ -83,7 +83,7 @@ Prerequisites:
 - Make or CMake build system
 
 Compilation Steps:
-g++ -std=c++11 main.cpp -o parking_system -pthread
+g++ main.cpp -o parking_system -pthread
 ./parking_system
 
 ## 🎯 Use Cases
